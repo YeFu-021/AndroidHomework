@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homepage"
+        android:title="首页"
+        android:icon="@drawable/ic_shouye">
+    </item>
+
+    <item
+        android:id="@+id/classify"
+        android:title="分类"
+        android:icon="@drawable/ic_fenlie">
+    </item>
+
+    <item
+        android:id="@+id/cart"
+        android:title="购物车"
+        android:icon="@drawable/ic_gouwuche">
+    </item>
+
+    <item
+        android:id="@+id/my"
+        android:title="我的"
+        android:icon="@drawable/ic_wode">
+    </item>
+
+</menu>
